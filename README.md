@@ -1,4 +1,4 @@
-# gatsby-gitbook-starter
+# gatsby-gitbook-starter (jswon)
 
 Kick off your project with this starter to create a powerful/flexible docs/tutorial web apps.
 
@@ -47,7 +47,7 @@ Write markdown files in `content` folder.
 
 Open `config.js` for templating variables. Broadly configuration is available for `gatsby`, `header`, `sidebar` and `siteMetadata`.
 
-- `gatsby` config for global configuration like 
+- `gatsby` config for global configuration like
     - `pathPrefix` - Gatsby Path Prefix
     - `siteUrl` - Gatsby Site URL
     - `gaTrackingId` - Google Analytics Tracking ID
